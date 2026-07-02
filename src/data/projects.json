@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Automation Auditor",
+    "description": "Multi-agent code evaluator with 3 LLM judges using dialectical reasoning.",
+    "achievement": "Three specialised LLM agents debate code quality through structured argumentation.",
+    "stack": ["LangGraph", "Ollama API", "Python"],
+    "github": "https://github.com/martha-ketsela-mengistu/automation-auditor"
+  },
+  {
+    "name": "Document Intelligence Refinery",
+    "description": "Agentic pipeline that transforms unstructured documents into queryable knowledge bases.",
+    "achievement": "Vision models + semantic chunking pipeline serving structured data via FastAPI.",
+    "stack": ["Vision Models", "Semantic Chunking", "FastAPI"],
+    "github": "https://github.com/martha-ketsela-mengistu/document-intelligence-refinery"
+  },
+  {
+    "name": "Ethiopian Medical Platform",
+    "description": "Full ELT platform: Telegram ingestion to YOLOv8 detection API.",
+    "achievement": "End-to-end pipeline from raw chat data to star schema to computer vision model serving.",
+    "stack": ["dbt", "Dagster", "PostgreSQL", "YOLOv8"],
+    "github": "https://github.com/martha-ketsela-mengistu/shipping-data-product-week7"
+  },
+  {
+    "name": "Intelligent Complaint Analysis",
+    "description": "RAG-powered chatbot for analyzing unstructured customer complaints.",
+    "achievement": "Retrieval-augmented generation over complaint corpus with Gradio interface.",
+    "stack": ["RAG", "ChromaDB", "Gradio"],
+    "github": "https://github.com/martha-ketsela-mengistu/intelligent-complaint-analysis-week6"
+  }
+]
