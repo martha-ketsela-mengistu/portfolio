@@ -21,4 +21,4 @@ npm run build
 
 ---
 
-📬 Let's build something — marthaket30@gmail.com | marthaketselamengitsu.netlify.app
+📬 Let's build something — marthaket30@gmail.com | https://martha-ketsela-mengistu.netlify.app/
