@@ -21,8 +21,8 @@ export default function ResumePage() {
       <section className="resume-section" aria-labelledby="summary-title">
         <h2 id="summary-title" className="resume-section__title">Summary</h2>
         <p>
-          IT professional at Bunna Bank with a background in DevSecOps, identity
-          and access management, and AI engineering. I build secure pipelines,
+          IT professional with a background in DevSecOps, Identity
+          and Access Management, and AI engineering. I build secure pipelines,
           integrate enterprise systems, and apply machine learning to real-world
           problems. Graduate of 10 Academy's AI Agent Engineering and Kifiya AI
           Mastery programs.
